@@ -35,3 +35,5 @@ and it prints out:
 `110010101100001011100110111100101100011011101000110011001111011011110010111010101101110011011110110111100110000011011110110111101101111011011110110111101101111011011110110111101101111011011110110111101101111001100000110111101111101`. We try converting to ascii, but all we get is gibberish. But wait - what if we pad zeroes in front?! We add another zero to the beginning of our string, and get: `easyctf{yunoo0oooooooooooo0o}`
 
 Flag: `easyctf{yunoo0oooooooooooo0o}`
+
+P.S.: yuno is spoopy skary yandere
