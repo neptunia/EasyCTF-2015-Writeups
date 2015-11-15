@@ -18,3 +18,5 @@ This is a crypto problem, and the hint says `railguns are cool`, so we can infer
 `railgunsarethebesteasyctfl3v3l5esp3rs`
 
 Flag: `easyctf{l3v3l5esp3rs}`
+
+P.S. Loli tsunderes are gr8
