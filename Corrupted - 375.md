@@ -12,6 +12,7 @@ On a more serious note, stop trying to fix the image. It's not broken -- it's hi
 ## Write-Up
 
 We are given this image:
+
 ![Corrupted Yuno](https://www.easyctf.com/static/problems/yandere/yuno.jpg)
 
 We should probably find the original picture. We search up "Gasai Yuno" on Google, and set the image size to 130x130 - the same as the picture we were given. We soon see the original picture can be found [here](http://cs623226.vk.me/v623226328/12faa/xLiegfGaFhA.jpg).
