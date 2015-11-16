@@ -2,12 +2,11 @@
 
 ## Problem
 
-I'm not an anime person, but I have weeaboo friends. One of them uses [this](https://www.easyctf.com/static/problems/yandere/yuno.jpg) as her profile pic. Unfortunately, she sent me a corrupted version. Can you find out what she's hiding?
+Zob is stupid and modified his RSA program [here](https://www.easyctf.com/static/problems/rsa3/rsa3.java). He left after we fired him after the mess we had with his bad matrix cipher, but he kept the server password encrypted with this program (we put it in the program for you). Can you help us recover the password?
 
 ## Hint
 
-Who is Yuno Gasai? From what I hear, she's a scary yandere.
-On a more serious note, stop trying to fix the image. It's not broken -- it's hiding stuff.
+Fractions :D
 
 ## Write-Up
 
